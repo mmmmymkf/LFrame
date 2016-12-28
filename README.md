@@ -4,10 +4,10 @@
 
 ## Effect
   * Gif
-  ![image](https://github.com/mmmmymkf/LFrame/screenshot/ColorView.gif)
+  ![](https://github.com/mmmmymkf/LFrame/blob/master/screenshot/ColorView.gif)
 
   * Image
-  ![image](https://github.com/mmmmymkf/LFrame/screenshot/ColorView.jpg)
+  ![](https://github.com/mmmmymkf/LFrame/blob/master/screenshot/ColorView.jpg)
 
 ## Reference
 
