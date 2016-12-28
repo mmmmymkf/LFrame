@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<declare-styleable name="HorizontalColorView" >
+
+		<!-- 游标半径 -->
+		<attr name="thumbRadius" format="dimension" />
+
+		<!-- 游标内着色区半径 -->
+		<attr name="thumbInnerRadius" format="dimension" />
+
+		<!-- 基础色带高度 -->
+		<attr name="colorBarHeight" format="dimension" />
+
+		<!-- 选色提示标识, 固定为mipmap-hdpi中的bg_color_cursor.png~ -->
+		<attr name="colorMark" format="reference" />
+
+	</declare-styleable>
+
+</resources>
