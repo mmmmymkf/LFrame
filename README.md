@@ -3,10 +3,10 @@
   * RGB水平颜色选择View.
 
 ## Effect
-  * Gif
+  * Gif<br/>
   ![](https://github.com/mmmmymkf/LFrame/blob/master/screenshot/ColorView.gif)
 
-  * Image
+  * Image<br/>
   ![](https://github.com/mmmmymkf/LFrame/blob/master/screenshot/ColorView.jpg)
 
 ## Reference
