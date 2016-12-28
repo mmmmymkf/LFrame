@@ -4,11 +4,11 @@
 
 ## Effect
   * Gif
-  ![](https://github.com/mmmmymkf/LFrame/screenshot/ColorView.gif)
-<br/>
+  ![image](https://github.com/mmmmymkf/LFrame/screenshot/ColorView.gif)
+
   * Image
-  ![](https://github.com/mmmmymkf/LFrame/screenshot/ColorView.jpg)
-<br/>
+  ![image](https://github.com/mmmmymkf/LFrame/screenshot/ColorView.jpg)
+
 ## Reference
 
 ```Java
@@ -21,10 +21,10 @@
         app:colorBarHeight="1dp"
         app:colorMark="@mipmap/bg_color_cursor"/>
 ```
-<br/>
+
 ```Java
     HorizontalColorView.setOnColorChangedListener(this);
-<br/>
+
     /**
      * 颜色改变时的回调.
      *
@@ -35,7 +35,7 @@
     public void onColorChanged(int color, float x) {
         ...
     }
-<br/>
+
     /**
      * 手指离开选色游标时回调.
      *
